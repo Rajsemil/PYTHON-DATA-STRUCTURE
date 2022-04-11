@@ -1,0 +1,10 @@
+a = [23, 45, 54 ,44]
+print(a)
+print(a[0])
+print(a[1])
+print(a[2])
+print(a[3])
+print(a[-1])
+print(a[-2])
+print(a[-3])
+print(a[-4])
